@@ -1,6 +1,4 @@
-# {{ name }}
-
-> {{ description }}
+# 相关命令
 
 ## Build Setup
 
